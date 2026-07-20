@@ -1,0 +1,17 @@
+//start
+//Using a loop, print numbers from 1 to 100
+//Determine the multiples of 4 amongst them
+//Skip the multiples of 4 while printing the results
+
+
+public class QuestionTwelve{
+	public static void main (String[] args){
+
+	for(int count = 1; count <= 100; count++){
+		if (count % 4 != 0){
+		System.out.println(count);} 
+			
+			}
+		}
+
+	}

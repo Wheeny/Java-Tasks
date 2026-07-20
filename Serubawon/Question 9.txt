@@ -1,0 +1,7 @@
+Question 9
+
+Answer:
+
+firstNumber = 8
+secondNumber = 12
+thirdNumber = 10

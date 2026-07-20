@@ -1,0 +1,20 @@
+//start
+//Initialize variable firstInteger
+//Initialize variable secondInteger
+//Initialize variable thirdInteger
+//Print each value on a separate line
+
+public class QuestionOne{
+	public static void main (String[] args){
+	
+	int firstInteger = 10;
+	int secondInteger = 20;
+	int thirdInteger = 30;
+
+	System.out.println(firstInteger);
+	System.out.println(secondInteger);
+	System.out.println(thirdInteger);
+
+		}
+
+	}

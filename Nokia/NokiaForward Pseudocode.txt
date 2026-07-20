@@ -1,0 +1,54 @@
+//start
+//initialize inputScanner
+//Display all 13  menuFunctions (main menu)
+//Collect integer(main menu selection)
+//Switch menuFunctionsList
+//Display the menu list of all 10 items under the 1st item, Phone book in the main menu
+//Collect integer(phone book menu selection)
+//Switch phoneBookMenuList 
+//Display the menu list under the 8th item (Options) in the 1st item (Phone book) in the main menu
+//Collect integer(options menu selection)
+//Switch optionsMenuList
+//Display the menu list of all 10 items under the 2nd item, Messages in the main menu
+//Collect integer(Messages menu selection)
+//Switch messagesMenuList
+//Display the menu list of the 2 items under the 7th item (Message Settings) in the 2nd item (Messages) in the main menu
+//Collect integer(Message Settings menu selection)
+//Switch messageSettingsMenuList
+//Display the menu list of the 3 items under the 1st item(Set1) on the 7th item (Message Settings) list of the 2nd item (Messages) list in the main menu
+//Collect integer(Set1 menu selection)
+//Switch Set1MenuList
+//Display the menu list of the 3 items under the 2nd item(Common) on the 7th item (Message Settings) list of the 2nd item (Messages) list in the main menu
+//Collect integer(Common menu selection)
+//Switch commonMenuList
+//Display the menu list of all 8 items under the 4th item (Call Register) in the main menu
+//Collect integer(callRegisterMenu selection)
+//Switch callRegisterMenuList
+//Display the menu list of the 5 items under the 5th item(Show Call Duration) on the 4th item (Call Register) list of the main menu
+//Collect integer(showCallDurationmenu selection)
+//Switch showCallDurationMenuList
+//Display the menu list of the 3 items under the 6th item(Show Call Costs) on the 4th item (Call Register) list of the  the main menu
+//Collect integer(showCallCostsmenu selection)
+//Switch showCallCostsMenuList
+//Display the menu list of the 2 items under the 7th item(Call Cost Settings) on the 4th item (Call Register) list of the main menu
+//Collect integer(showCallDurationmenu selection)
+//Switch showCallDurationMenuList
+//Display the menu list of all 9 items under the 5th item (Tones) in the main menu
+//Collect integer(tonesMenu selection)
+//Switch tonesMenuList
+//Display the menu list of all 4 items under the 6th item (Settings) in the main menu
+//Collect integer(settingsMenu selection)
+//Switch settingsMenuList
+//Display the menu list of the 6 items under the 1st item(Call Settings) of the 6th item (Settings) list of the main menu
+//Collect integer(callSettingsMenu selection)
+//Switch callSettingsMenuList
+//Display the menu list of the 6 items under the 2nd item(Phone Settings) of the 6th item (Settings) list of the main menu
+//Collect integer(phoneSettingsMenu selection)
+//Switch phoneSettingsMenuList
+//Display the menu list of the 6 items under the 3rd item(Security Settings) of the 6th item (Settings) list of the main menu
+//Collect integer(securitySettingsMenu selection)
+//Switch securitySettingsMenuList
+//Display the menu list of all 6 items under the 11th item (Clock) in the main menu
+//Collect integer(clockMenu selection)
+//Switch clockMenuList
+//end
